@@ -1,0 +1,6 @@
+5
+sodo prekes 1500
+statybines medziagos 2000
+buitine technika 800
+zaidimai 50
+kompiuteriai 1300

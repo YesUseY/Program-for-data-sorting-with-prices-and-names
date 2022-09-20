@@ -1,0 +1,6 @@
+5
+Lukas sodo prekes         2500
+Lukas statybines medziagos2000
+Lukas buitine technika    800
+Antanas zaidimai            50
+Antanas kompiuteriai        1300
